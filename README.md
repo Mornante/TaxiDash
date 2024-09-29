@@ -1,4 +1,4 @@
-<img src="/assets/logo.png?raw=true" width="200">
+<img src="./assets/logo.png?raw=true" width="200">
 
 # TaxiDash
 
@@ -12,9 +12,10 @@ Featuring an intuitive top-down view, players can control their taxi using keybo
 
 # Project Showcase
 
-<img src="/assets/showcase1.png?raw=true">
-
-<img src="/assets/showcase2.png?raw=true">
+<p align="center">
+    <img src="./assets/showcase1.png?raw=true?raw=true" width="49%" />
+    <img src="./assets/showcase2.png?raw=true?raw=true" width="48%" />
+</p>
 
 # What to Expect
 
